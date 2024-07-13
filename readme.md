@@ -9,12 +9,6 @@
 
 ## Things You Need to Know
 
-###  Github Repository
-https://github.com/in28minutes/JavaInterviewQuestionsAndAnswers
-
-
-
-
 
 ## Interview Questions
 
